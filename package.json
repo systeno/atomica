@@ -1,0 +1,21 @@
+{
+    "name": "atomica",
+    "displayName": "Atomica",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atomica",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Atomica-color-theme.json"
+            }
+        ]
+    }
+}
