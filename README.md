@@ -10,4 +10,4 @@ To do so `cd` into your extension folder. Often found under: `~/.vscode/extensio
 
 ## Settings
 I am creating this while using my own settings. This include some custom css. This may cause it to look differently with other settings.
-My settings can be found at: `https://github.com/systeno/vscode-settings`.
+My settings can be found at: [https://github.com/systeno/vscode-settings](https://github.com/systeno/vscode-settings).
