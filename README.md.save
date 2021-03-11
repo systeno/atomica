@@ -1,0 +1,8 @@
+# Atomica Theme
+
+This is a slightly tweaked VS Code Theme, based on: [vscode-theme-onedark](https://github.com/akamud/vscode-theme-onedark). 
+
+## Installation
+Since this theme is not (yet) on the VS Code marketplace, you need to install it manually.
+To do so `cd` into you extension folder. Often found at: `~/.vscode/extensions` and clone this repo: `
+https://github.com/systeno/atomica.git`.
