@@ -57,7 +57,17 @@
 		"statusBar.noFolderBackground": "#212123",
 		"tab.activeBackground": "#161618",
 		"tab.activeForeground": "#D7DAE0",
-		"tab.border": "#181A1F",
+
+		"tab.border": "#000000",
+		"sideBar.border": "#000000",
+		"statusBar.border": "#000000",
+		"titleBar.border": "#000000",
+		"tab.activeBorder": "#161618",
+		"contrastBorder": "#000000",
+		"tab.activeBorderTop": "#000000",
+		"activityBar.border": "#000000",
+		"panel.border": "#000000",
+
 		"tab.inactiveBackground": "#212123",
 		"titleBar.activeBackground": "#212123",
 		"titleBar.activeForeground": "#A0A0AD",
